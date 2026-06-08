@@ -20,3 +20,10 @@ Document practical applications of AI that improve product decision-making and t
 ## Outside of Work
 
 When I'm not building products, I'm exploring emerging AI capabilities, studying product leadership, and learning new approaches to solving complex business problems.
+
+## Repository Structure
+
+- `prompts/` - Reusable AI prompts for product work
+- `workflows/` - Repeatable AI-assisted product workflows
+- `frameworks/` - Product leadership and decision-making frameworks
+- `experiments/` - Notes from AI experiments and learnings
